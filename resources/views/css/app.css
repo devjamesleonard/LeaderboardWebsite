@@ -1,0 +1,30 @@
+@import url(https://fonts.bunny.net/css?family=alfa-slab-one:400);
+body{
+    background-color: #172596;
+    font-family: 'Alfa Slab One', display;
+    
+}
+button:hover{
+    color: #ffa1e3;
+}
+input:hover{
+border-color: #ffa1e3;
+border-style: solid;
+border-width:2px;
+}
+.savebutton {
+
+width:40px;
+
+}
+.formarea{
+position:absolute;
+margin-left: 5%;
+}
+.top-left-button {
+position: fixed;
+top:1%;
+left:2%;
+color: white;
+width:80px;
+}
